@@ -1,6 +1,6 @@
 # 📚 My Study Notes
 
-Welcome to my personal study document! Here I jot down important topics I’m learning.
+Welcome to my personal study document! Here I note down important topics I’m learning.
 
 ---
 
